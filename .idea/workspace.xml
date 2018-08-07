@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c74ba56d-d81b-4935-9e12-23a55ff2e343" name="Default" comment="" />
+    <list default="true" id="c74ba56d-d81b-4935-9e12-23a55ff2e343" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/cn/carryshuai/one/类型转换/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/类型转换/Demo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +14,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/类型转换/Demo.java">
+      <file leaf-file-name="Archiver.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/归档和解档/Archiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="420">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipEntry.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/zip/ZipEntry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileOutputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="99" column="69" selection-start-line="99" selection-start-column="48" selection-end-line="99" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/zip/ZipInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1705">
+              <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -51,6 +83,9 @@
       <find>邹平</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -65,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/bankcode" />
         <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/支持的银行" />
         <option value="$PROJECT_DIR$/src/cn/carryshuai/one/类型转换/Demo.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/归档和解档/Archiver.java" />
       </list>
     </option>
   </component>
@@ -87,11 +123,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="536" />
-    <option name="y" value="27" />
+    <option name="x" value="48" />
+    <option name="y" value="23" />
     <option name="width" value="1315" />
     <option name="height" value="824" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -122,7 +159,15 @@
               <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
-              <item name="类型转换" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="归档和解档" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,64 +200,124 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyTryLock">
-    <configuration name="LockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.sixteen.LockDemo" />
-      <module name="java疯狂讲义代码" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.carryshuai.sixteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.sixteen.MyThread" />
-      <module name="java疯狂讲义代码" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.carryshuai.sixteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyThreadImRunable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.sixteen.MyThreadImRunable" />
-      <module name="java疯狂讲义代码" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.carryshuai.sixteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyTryLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.sixteen.MyTryLock" />
-      <module name="java疯狂讲义代码" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.carryshuai.sixteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SynchronizedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.sixteen.SynchronizedDemo" />
-      <module name="java疯狂讲义代码" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.carryshuai.sixteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Archiver.testUnZip">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Archiver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java疯狂讲义代码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.one.归档和解档.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.carryshuai.one.归档和解档" />
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.归档和解档.Archiver" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Archiver.testUnZip" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java疯狂讲义代码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.one.归档和解档.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.carryshuai.one.归档和解档" />
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.归档和解档.Archiver" />
+      <option name="METHOD_NAME" value="testUnZip" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Archiver.testZip" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java疯狂讲义代码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.one.归档和解档.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.carryshuai.one.归档和解档" />
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.归档和解档.Archiver" />
+      <option name="METHOD_NAME" value="testZip" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java疯狂讲义代码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.one.类型转换.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.carryshuai.one.类型转换" />
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.类型转换.Demo" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Demo.int2Bytes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java疯狂讲义代码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.one.类型转换.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.carryshuai.one.类型转换" />
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.类型转换.Demo" />
+      <option name="METHOD_NAME" value="int2Bytes" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -253,19 +358,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MyThread" />
-      <item itemvalue="Application.MyThreadImRunable" />
-      <item itemvalue="Application.SynchronizedDemo" />
-      <item itemvalue="Application.LockDemo" />
-      <item itemvalue="Application.MyTryLock" />
+      <item itemvalue="JUnit.Demo.int2Bytes" />
+      <item itemvalue="JUnit.Demo" />
+      <item itemvalue="JUnit.Archiver.testZip" />
+      <item itemvalue="JUnit.Archiver" />
+      <item itemvalue="JUnit.Archiver.testUnZip" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyTryLock" />
-        <item itemvalue="Application.LockDemo" />
-        <item itemvalue="Application.SynchronizedDemo" />
-        <item itemvalue="Application.MyThreadImRunable" />
-        <item itemvalue="Application.MyThread" />
+        <item itemvalue="JUnit.Archiver.testUnZip" />
+        <item itemvalue="JUnit.Archiver.testZip" />
+        <item itemvalue="JUnit.Archiver" />
+        <item itemvalue="JUnit.Demo" />
+        <item itemvalue="JUnit.Demo.int2Bytes" />
       </list>
     </recent_temporary>
   </component>
@@ -282,31 +387,64 @@
       <workItem from="1533030679927" duration="642000" />
       <workItem from="1533031620473" duration="1254000" />
       <workItem from="1533090371111" duration="10493000" />
-      <workItem from="1533608479223" duration="301000" />
+      <workItem from="1533608479223" duration="5036000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Archiver_testZip - 2018.08.07 at 11h 27m 28s.xml">
+      <configuration name="Archiver.testZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testZip - 2018.08.07 at 11h 29m 14s.xml">
+      <configuration name="Archiver.testZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testZip - 2018.08.07 at 11h 33m 58s.xml">
+      <configuration name="Archiver.testZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 41m 13s.xml">
+      <configuration name="Archiver.testUnZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 41m 37s.xml">
+      <configuration name="Archiver.testUnZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testZip - 2018.08.07 at 11h 42m 03s.xml">
+      <configuration name="Archiver.testZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 42m 23s.xml">
+      <configuration name="Archiver.testUnZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 43m 08s.xml">
+      <configuration name="Archiver.testUnZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 43m 44s.xml">
+      <configuration name="Archiver.testUnZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 44m 30s.xml">
+      <configuration name="Archiver.testUnZip" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12690000" />
+    <option name="totallyTimeSpent" value="17425000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="536" y="27" width="1315" height="824" extended-state="0" />
+    <frame x="0" y="70" width="1315" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.097527474" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26272354" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287483" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20738414" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20738414" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -320,7 +458,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33012378" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +465,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/ssss">
@@ -488,8 +630,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/类型转换/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="320">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/zip/ZipInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1705">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="99" column="69" selection-start-line="99" selection-start-column="48" selection-end-line="99" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/zip/ZipEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/归档和解档/Archiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
