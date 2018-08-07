@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74ba56d-d81b-4935-9e12-23a55ff2e343" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cn/carryshuai/one/类型转换/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/类型转换/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +17,8 @@
       <file leaf-file-name="Archiver.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/归档和解档/Archiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="241">
+              <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,6 +84,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -123,7 +124,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
+    <option name="x" value="95" />
     <option name="y" value="23" />
     <option name="width" value="1315" />
     <option name="height" value="824" />
@@ -160,14 +161,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="归档和解档" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -387,17 +380,11 @@
       <workItem from="1533030679927" duration="642000" />
       <workItem from="1533031620473" duration="1254000" />
       <workItem from="1533090371111" duration="10493000" />
-      <workItem from="1533608479223" duration="5036000" />
+      <workItem from="1533608479223" duration="5436000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Archiver_testZip - 2018.08.07 at 11h 27m 28s.xml">
-      <configuration name="Archiver.testZip" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Archiver_testZip - 2018.08.07 at 11h 29m 14s.xml">
-      <configuration name="Archiver.testZip" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Archiver_testZip - 2018.08.07 at 11h 33m 58s.xml">
       <configuration name="Archiver.testZip" configurationId="JUnit" />
     </history-entry>
@@ -422,13 +409,18 @@
     <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 44m 30s.xml">
       <configuration name="Archiver.testUnZip" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 50m 00s.xml">
+      <configuration name="Archiver.testUnZip" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Archiver_testUnZip - 2018.08.07 at 11h 50m 29s.xml">
+      <configuration name="Archiver.testUnZip" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17425000" />
+    <option name="totallyTimeSpent" value="17825000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="70" width="1315" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="39" y="60" width="1315" height="824" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -436,12 +428,12 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.11390416" side_tool="true" visible="true" weight="0.3287483" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26272354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26272354" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287483" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.8860958" visible="true" weight="0.3287483" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20738414" />
@@ -661,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/归档和解档/Archiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="241">
+          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
