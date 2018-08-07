@@ -17,8 +17,8 @@
       <file leaf-file-name="Archiver.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/归档和解档/Archiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+            <state relative-caret-position="166">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,8 +124,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="95" />
-    <option name="y" value="23" />
+    <option name="x" value="681" />
+    <option name="y" value="104" />
     <option name="width" value="1315" />
     <option name="height" value="824" />
   </component>
@@ -161,6 +161,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="归档和解档" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -380,7 +388,7 @@
       <workItem from="1533030679927" duration="642000" />
       <workItem from="1533031620473" duration="1254000" />
       <workItem from="1533090371111" duration="10493000" />
-      <workItem from="1533608479223" duration="5436000" />
+      <workItem from="1533608479223" duration="6066000" />
     </task>
     <servers />
   </component>
@@ -417,10 +425,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17825000" />
+    <option name="totallyTimeSpent" value="18455000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="60" width="1315" height="824" extended-state="0" />
+    <frame x="99" y="23" width="1315" height="824" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -653,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/归档和解档/Archiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+        <state relative-caret-position="166">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
