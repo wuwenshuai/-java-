@@ -7,15 +7,15 @@ package cn.carryshuai.sixteen.卖票;
  */
 public class TicketPool {
 
-    private int ticket = 100;
+    private int ticketNo = 100;
     //获得当前票
 
-    public int getCurrentTicketNummber(){
-        int temp = ticket;
+    public synchronized int getCurrentTicketNummber(){
+        int temp = ticketNo;
         if (temp==0){
             return 0;
         }
-        ticket--;
+        ticketNo--;
         return temp;
 
     };

@@ -19,16 +19,19 @@ public class Seller extends Thread{
     @Override
     public void run() {
 
+
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         while (true){
             int nummber = ticketPool.getCurrentTicketNummber();
             if (nummber==0){
                 return;
             }
-            try {
-                Thread.sleep(100);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+
             System.out.println(name+":"+nummber);
         }
     }
