@@ -1,7 +1,8 @@
 package cn.carryshuai.test;
 
 import cn.carryshuai.util.DateUtil;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 
 import java.util.Date;
 
