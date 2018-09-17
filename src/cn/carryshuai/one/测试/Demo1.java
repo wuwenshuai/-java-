@@ -1,5 +1,7 @@
 package cn.carryshuai.one.测试;
 
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -27,5 +29,22 @@ public class Demo1 {
 
 
 
+    }
+
+    @Test
+    public void test(){
+        String repayFailReason = null;
+        String retMsg = null;
+        //拼接失败原因字段
+        String failMessage = null;
+        if (repayFailReason == null){
+            failMessage = retMsg;
+        }else if (retMsg == null){
+            failMessage = repayFailReason;
+        }
+        else {
+            failMessage = retMsg+","+repayFailReason;
+        }
+        System.out.println(failMessage);
     }
 }

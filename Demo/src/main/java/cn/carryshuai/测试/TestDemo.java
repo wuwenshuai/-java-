@@ -1,6 +1,10 @@
 package cn.carryshuai.测试;
 
+import cn.carryshuai.Domain.CarInterface;
 import org.apache.commons.lang.StringUtils;
+import org.junit.jupiter.api.Test;
+
+import java.util.concurrent.FutureTask;
 
 /**
  * @Auther: wuwenshuai
