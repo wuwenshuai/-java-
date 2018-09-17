@@ -2,8 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74ba56d-d81b-4935-9e12-23a55ff2e343" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/遍历map/自定义map/MyHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/CarInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/io流/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/HumMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/HumanUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/SupMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/ClothFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/NikeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/futureTask/DownLoadTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/futureTask/TestDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/join/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程同步/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程同步/wait和notify/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程池/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程的中断/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/日期/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/SingleStaticInerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/SingleTwoLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/AodiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/CarInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/DaZhongCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/工厂方法/AodiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/工厂方法/CardFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShipBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShipDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/CarryAirShipBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/CarryAirShipDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Fadongji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/GoodCarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/LowCarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/简单工厂/SimpleFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/测试/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/测试/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Demo/target/" />
@@ -14,73 +62,130 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/java$cn_carryshuai_one__in_java.ic" NAME="cn.carryshuai.one.设计模式 in java疯狂讲义代码 Coverage Results" MODIFIED="1536283470038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.carryshuai.one.设计模式.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java$cn_carryshuai_one___bean_in_java.ic" NAME="cn.carryshuai.one.设计模式.工厂.bean in java疯狂讲义代码 Coverage Results" MODIFIED="1536716477194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.carryshuai.one.设计模式.工厂.bean.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java$cn_carryshuai_one___in_java.ic" NAME="cn.carryshuai.one.设计模式.工厂 in java疯狂讲义代码 Coverage Results" MODIFIED="1536716485632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.carryshuai.one.设计模式.工厂.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/List集合/MyArrayList.java">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程的中断/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+            <state relative-caret-position="440">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程同步/Demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="44" column="39" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程同步/wait和notify/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1076">
+              <caret line="84" column="18" lean-forward="true" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#356#687#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#714#1045#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyHashMapDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/遍历map/自定义map/MyHashMapDemo.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            <state relative-caret-position="612">
+              <caret line="37" column="29" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <file leaf-file-name="ThreadPool.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程池/ThreadPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4120">
-              <caret line="340" selection-start-line="340" selection-end-line="340" />
+            <state relative-caret-position="344">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
-                <element signature="docComment;class#HashMap#0" />
-                <element signature="e#10630#10703#0" />
-                <element signature="e#19327#19328#0" expanded="true" />
-                <element signature="e#19410#19411#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <file leaf-file-name="DownLoadTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/futureTask/DownLoadTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8460">
-              <caret line="461" column="21" selection-start-line="461" selection-start-column="21" selection-end-line="461" selection-end-column="21" />
+            <state relative-caret-position="427">
+              <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
               <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <file leaf-file-name="Callable.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23640">
-              <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-              <folding>
-                <element signature="e#49043#49044#0" expanded="true" />
-                <element signature="e#49082#49083#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="217">
+              <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExecutorService.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractExecutorService.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="70" column="45" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -91,6 +196,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -127,51 +233,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/two/java文档注释.md" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/多线程.md" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/MyThreadImRunable.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/SynchronizedDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/MyTryLock.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/LockDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/ssss" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/bankcode" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/支持的银行" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/类型转换/Demo.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/归档和解档/Archiver.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/App.java" />
-        <option value="$PROJECT_DIR$/Demo/pom.xml" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/Person.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/TestXmlStream.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/DockingService.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/BocServi.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/BocDockingController.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/AbstractInterfaceApp.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/BocServic.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/Seller.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/TicketPool.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/BocDockingService.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/内部类/InnerClass.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/util/DateUtil.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/TestDate.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/IntegerToString.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/CreditInfo.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/遍历map/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/ReflectDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/Elemploy.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/AnnotationDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/GetAnnotationDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/SFiled.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/SFTable.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/SfTable.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/SfFiled.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/SF.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/注解/Test.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/正则/CardTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/List集合/MyArrayList.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/遍历map/自定义map/MyHashMapDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/遍历map/统计字符出现的次数/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/comparable/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/io流/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/domain/Person.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/ClothFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/NikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/ProxyFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/HumMain.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/SupMain.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/ProxyFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/HumanUtil.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/MyInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/日期/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/SingleTwoLock.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/SingleStaticInerClass.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/AodiCar.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/DaZhongCar.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/简单工厂/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/CarInterface.java" />
+        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/测试/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/futureTask/TestDemo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/工厂方法/AodiFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/工厂方法/CardFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/Client.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/CarInterface.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Fadongji.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Seat.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/CarFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/LowCarFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/GoodCarFactory.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Client.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShipDirector.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/CarryAirShipBuilder.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShip.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/CarryAirShipDirector.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/Client.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShipBuilder.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/join/Demo.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程的中断/Demo.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程同步/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/Demo.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/Main.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程池/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/futureTask/DownLoadTask.java" />
       </list>
     </option>
   </component>
@@ -201,7 +313,7 @@
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="827" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -212,8 +324,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,81 +334,57 @@
             <path>
               <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
               <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
               <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
               <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="遍历map" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
               <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="遍历map" type="462c0819:PsiDirectoryNode" />
-              <item name="自定义map" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="futureTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="futureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="DownLoadTask.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="线程池" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -324,76 +410,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyHashMapDemo">
-    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.List集合.MyArrayList" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.多线程.concurrent包.Demo" />
       <module name="java疯狂讲义代码" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.carryshuai.one.List集合.*" />
+          <option name="PATTERN" value="cn.carryshuai.one.多线程.concurrent包.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.遍历map.自定义map.MyHashMapDemo" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.多线程.线程同步.Demo1" />
       <module name="java疯狂讲义代码" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.carryshuai.one.遍历map.自定义map.*" />
+          <option name="PATTERN" value="cn.carryshuai.one.多线程.线程同步.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ReflectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.反射.ReflectDemo" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.多线程.futureTask.Main" />
       <module name="java疯狂讲义代码" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.carryshuai.one.反射.*" />
+          <option name="PATTERN" value="cn.carryshuai.one.多线程.futureTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.注解.Test" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.多线程.concurrent包.Main" />
       <module name="java疯狂讲义代码" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.carryshuai.one.注解.*" />
+          <option name="PATTERN" value="cn.carryshuai.one.多线程.concurrent包.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.多线程.线程池.ThreadPool" />
+      <module name="java疯狂讲义代码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.one.多线程.线程池.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="CardTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java疯狂讲义代码" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.carryshuai.one.正则.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.carryshuai.one.正则" />
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.正则.CardTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -434,19 +508,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ReflectDemo" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="JUnit.CardTest.test" />
-      <item itemvalue="Application.MyArrayList" />
-      <item itemvalue="Application.MyHashMapDemo" />
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.Demo (2)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ThreadPool" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyHashMapDemo" />
-        <item itemvalue="Application.MyArrayList" />
-        <item itemvalue="JUnit.CardTest.test" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ReflectDemo" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -484,64 +558,87 @@
       <workItem from="1534831777572" duration="940000" />
       <workItem from="1534925051586" duration="2873000" />
       <workItem from="1535006743291" duration="2380000" />
-      <workItem from="1535012324146" duration="2700000" />
+      <workItem from="1535012324146" duration="3205000" />
+      <workItem from="1535077206073" duration="1419000" />
+      <workItem from="1535370579811" duration="717000" />
+      <workItem from="1535419690035" duration="751000" />
+      <workItem from="1535446831171" duration="1573000" />
+      <workItem from="1535527115112" duration="568000" />
+      <workItem from="1535591963682" duration="585000" />
+      <workItem from="1535615816861" duration="7294000" />
+      <workItem from="1535679230478" duration="37000" />
+      <workItem from="1535695991639" duration="4263000" />
+      <workItem from="1535937321193" duration="5000" />
+      <workItem from="1536024104488" duration="1613000" />
+      <workItem from="1536125003420" duration="129000" />
+      <workItem from="1536283447438" duration="1212000" />
+      <workItem from="1536551342516" duration="3716000" />
+      <workItem from="1536628457548" duration="1947000" />
+      <workItem from="1536659839299" duration="2302000" />
+      <workItem from="1536716253006" duration="1403000" />
+      <workItem from="1536723387186" duration="4278000" />
+      <workItem from="1536802081406" duration="1335000" />
+      <workItem from="1536809066648" duration="1856000" />
+      <workItem from="1536888515006" duration="2460000" />
+      <workItem from="1537147881132" duration="1479000" />
+      <workItem from="1537151370255" duration="12638000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestDemo_test - 2018.08.15 at 17h 34m 38s.xml">
-      <configuration name="TestDemo.test" configurationId="JUnit" />
+    <history-entry file="Demo1_test2 - 2018.09.10 at 14h 20m 25s.xml">
+      <configuration name="Demo1.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test1 - 2018.08.15 at 17h 44m 49s.xml">
-      <configuration name="TestDemo.test1" configurationId="JUnit" />
+    <history-entry file="Demo1_test2 - 2018.09.10 at 14h 20m 48s.xml">
+      <configuration name="Demo1.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test_(1) - 2018.08.15 at 17h 51m 08s.xml">
-      <configuration name="TestDemo.test (1)" configurationId="JUnit" />
+    <history-entry file="Demo1_test2 - 2018.09.10 at 14h 20m 55s.xml">
+      <configuration name="Demo1.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test3 - 2018.08.15 at 18h 00m 37s.xml">
-      <configuration name="TestDemo.test3" configurationId="JUnit" />
+    <history-entry file="cn_carryshuai_one_设计模式_工厂_bean_in_java疯狂讲义代码 - 2018.09.12 at 09h 41m 18s.xml">
+      <configuration name="cn.carryshuai.one.设计模式.工厂.bean in java疯狂讲义代码" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test4 - 2018.08.15 at 18h 29m 48s.xml">
-      <configuration name="TestDemo.test4" configurationId="JUnit" />
+    <history-entry file="cn_carryshuai_one_设计模式_工厂_in_java疯狂讲义代码 - 2018.09.12 at 09h 41m 26s.xml">
+      <configuration name="cn.carryshuai.one.设计模式.工厂 in java疯狂讲义代码" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardTest_test - 2018.08.21 at 14h 13m 30s.xml">
-      <configuration name="CardTest.test" configurationId="JUnit" />
+    <history-entry file="cn_carryshuai_one_设计模式_工厂_in_java疯狂讲义代码 - 2018.09.12 at 09h 42m 27s.xml">
+      <configuration name="cn.carryshuai.one.设计模式.工厂 in java疯狂讲义代码" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardTest_test - 2018.08.21 at 14h 13m 37s.xml">
-      <configuration name="CardTest.test" configurationId="JUnit" />
+    <history-entry file="Demo1_test - 2018.09.13 at 11h 25m 14s.xml">
+      <configuration name="Demo1.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardTest_test - 2018.08.21 at 14h 13m 56s.xml">
-      <configuration name="CardTest.test" configurationId="JUnit" />
+    <history-entry file="Demo1_test - 2018.09.13 at 11h 33m 18s.xml">
+      <configuration name="Demo1.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardTest_test - 2018.08.21 at 14h 14m 03s.xml">
-      <configuration name="CardTest.test" configurationId="JUnit" />
+    <history-entry file="Demo1_test - 2018.09.13 at 11h 35m 17s.xml">
+      <configuration name="Demo1.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardTest_test - 2018.08.21 at 14h 14m 18s.xml">
-      <configuration name="CardTest.test" configurationId="JUnit" />
+    <history-entry file="Demo1_test - 2018.09.13 at 11h 39m 03s.xml">
+      <configuration name="Demo1.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60020000" />
+    <option name="totallyTimeSpent" value="114105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="23" width="1440" height="827" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48783976" weight="0.3263889" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48354793" weight="0.32402235" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.13590844" side_tool="true" visible="true" weight="0.17123288" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22603719" side_tool="true" visible="true" weight="0.13911846" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8640916" visible="true" weight="0.17123288" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7739628" visible="true" weight="0.13911846" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8748212" weight="0.054545455" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8719599" weight="0.29090908" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.016452074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -549,13 +646,45 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49960724" weight="0.32968536" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8590844" visible="true" weight="0.374829" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0071530757" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49960724" weight="0.32968536" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8719599" weight="0.29090908" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.14091559" side_tool="true" weight="0.051748253" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.4" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.48426324" weight="0.325419" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -572,375 +701,420 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.jar!/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriver.class">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/NikeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="180">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/TicketPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/Seller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/TicketPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.jar!/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/TestXmlStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/Seller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/TicketPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.jar!/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/TestXmlStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.jar!/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/Seller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/sixteen/卖票/TicketPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/BocDockingController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/AbstractInterfaceApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="28" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/BocDockingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/抽象类/BocServic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/内部类/InnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/TestXmlStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" selection-start-line="22" selection-start-column="8" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/TestDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/IntegerToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/CreditInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/test/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/ProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/静态代理/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        <state relative-caret-position="220">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/SupMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/HumMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/ReflectDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        <state relative-caret-position="320">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/util/DateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/遍历map/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="89" column="36" selection-start-line="89" selection-start-column="36" selection-end-line="89" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/注解/Elemploy.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/注解/AnnotationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/注解/SFiled.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="74" column="6" lean-forward="true" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/注解/SfTable.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/ProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <caret line="14" column="116" selection-start-line="14" selection-start-column="116" selection-end-line="14" selection-end-column="116" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/注解/SF.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/HumanUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="200">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/注解/SfFiled.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/MyInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/反射/动态代理/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="446" lean-forward="true" selection-start-line="446" selection-end-line="446" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/日期/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/SingleTwoLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/单例/SingleStaticInerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/DaZhongCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/注解/GetAnnotationDemo.java">
+    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/Domain/CarInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/注解/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/简单工厂/SimpleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="435">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/正则/CardTest.java">
+    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/测试/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="52" />
+        <state relative-caret-position="74">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23640">
-          <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
+        <state relative-caret-position="152">
+          <caret line="131" column="11" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/工厂方法/CardFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/工厂方法/AodiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/CarInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/AodiCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Seat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Fadongji.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding>
-            <element signature="e#49043#49044#0" expanded="true" />
-            <element signature="e#49082#49083#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/GoodCarFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8460">
-          <caret line="461" column="21" selection-start-line="461" selection-start-column="21" selection-end-line="461" selection-end-column="21" />
+        <state relative-caret-position="280">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/List集合/MyArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/LowCarFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+        <state relative-caret-position="320">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShipDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/AirShipBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/CarryAirShipBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="59" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/CarryAirShipDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/建造者/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/futureTask/TestDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/join/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程的中断/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程同步/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程同步/wait和notify/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="84" column="18" lean-forward="true" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#356#687#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#714#1045#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4120">
-          <caret line="340" selection-start-line="340" selection-end-line="340" />
-          <folding>
-            <element signature="docComment;class#HashMap#0" />
-            <element signature="e#10630#10703#0" />
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/遍历map/自定义map/MyHashMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        <state relative-caret-position="612">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="70" column="45" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/线程池/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/futureTask/DownLoadTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
           </folding>
         </state>
       </provider>

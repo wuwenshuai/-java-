@@ -5,7 +5,8 @@ import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.XStreamer;
 import com.thoughtworks.xstream.io.json.JettisonMappedXmlDriver;
 import com.thoughtworks.xstream.io.xml.StaxDriver;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 
 /**
  * @Auther: wuwenshuai
