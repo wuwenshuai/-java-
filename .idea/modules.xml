@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java疯狂讲义代码.iml" filepath="$PROJECT_DIR$/java疯狂讲义代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springannotation/springannotation.iml" filepath="$PROJECT_DIR$/springannotation/springannotation.iml" />
     </modules>
   </component>
 </project>
