@@ -2,5 +2,25 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/aop/LogAspects.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Boss.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Dog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/MyBeanPostProcessor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Red.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/MyImportSelector.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/WindowsCondition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfAOP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfLifeCycle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfProfile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfPropertyValues.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConifgOfAutowired.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MyTypeFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/tx/TxConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/tx/UserService.java" charset="GBK" />
   </component>
 </project>
