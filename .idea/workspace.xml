@@ -2,90 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74ba56d-d81b-4935-9e12-23a55ff2e343" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/springannotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/.springBeans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/aop/LogAspects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/aop/MathCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/ColorFactoryBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/MyBeanPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/RainBow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Yellow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/MyImportSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/WindowsCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfAOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfLifeCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfPropertyValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConifgOfAutowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MyTypeFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/ext/ExtConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/ext/MyApplicationListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/ext/MyBeanDefinitionRegistryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/ext/MyBeanFactoryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/ext/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/tx/TxConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/tx/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/tx/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/resources/SpringSource.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/resources/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/main/resources/person.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/test/java/com/atguigu/test/IOCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/test/java/com/atguigu/test/IOCTest_AOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/test/java/com/atguigu/test/IOCTest_Ext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/test/java/com/atguigu/test/IOCTest_LifeCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/test/java/com/atguigu/test/IOCTest_Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/test/java/com/atguigu/test/IOCTest_PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/spring-annotation/src/test/java/com/atguigu/test/IOCTest_Tx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/bean/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/bean/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/config/LifeConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/config/PersonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springannotation/src/test/java/cn/carryshuai/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/创建线程/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/ProxyStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/RealStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/静态代理/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/静态代理/ProxyStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/静态代理/RealStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/静态代理/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/NewCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/OldCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/StagePrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/卖票/SaleTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/卖票/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_org_json_chargebee_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_org_json_chargebee_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/Demo.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Demo/target/" />
@@ -98,87 +74,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/java$cn_carryshuai_one__in_java.ic" NAME="cn.carryshuai.one.设计模式 in java疯狂讲义代码 Coverage Results" MODIFIED="1536283470038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>cn.carryshuai.one.设计模式.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/java$cn_carryshuai_one___bean_in_java.ic" NAME="cn.carryshuai.one.设计模式.工厂.bean in java疯狂讲义代码 Coverage Results" MODIFIED="1536716477194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.carryshuai.one.设计模式.工厂.bean.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java$cn_carryshuai_one__in_java.ic" NAME="cn.carryshuai.one.设计模式 in java疯狂讲义代码 Coverage Results" MODIFIED="1536283470038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.carryshuai.one.设计模式.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/java$cn_carryshuai_one___in_java.ic" NAME="cn.carryshuai.one.设计模式.工厂 in java疯狂讲义代码 Coverage Results" MODIFIED="1536716485632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.carryshuai.one.设计模式.工厂.*</FILTER>
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/Client.java">
+    <leaf>
+      <file leaf-file-name="Ticket.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/卖票/Ticket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StagePrice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/StagePrice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OldCustomer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/OldCustomer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewCustomer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/NewCustomer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Content.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Content.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
-              <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProxyStar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/ProxyStar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="166">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,20 +98,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RealStar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/RealStar.java">
+      <file leaf-file-name="SaleTicket.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/卖票/SaleTicket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Star.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/Star.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="275">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -239,6 +146,7 @@
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/Demo/src/main/java</dir>
+      <dir>C:\Users\old\IdeaProjects\-java-\src\cn\carryshuai\one\多线程\concurrent包</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -248,10 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/工厂方法/AodiFactory.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/工厂方法/CardFactory.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/Client.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/CarInterface.java" />
         <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Fadongji.java" />
         <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/Seat.java" />
         <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/工厂/抽象工厂/CarFactory.java" />
@@ -299,6 +203,10 @@
         <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/NewCustomer.java" />
         <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Content.java" />
         <option value="$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Client.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo3.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/测试/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/卖票/SaleTicket.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/卖票/Ticket.java" />
       </list>
     </option>
   </component>
@@ -325,11 +233,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-71" />
     <option name="width" value="1376" />
-    <option name="height" value="773" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -339,46 +246,62 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
+              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-java-" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
+              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-java-" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
+              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-java-" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java疯狂讲义代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java疯狂讲义代码" type="462c0819:PsiDirectoryNode" />
+              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-java-" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="策略模式" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-java-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent包" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-java-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent包" type="462c0819:PsiDirectoryNode" />
+              <item name="卖票" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-java-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="测试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -414,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
+  <component name="RunManager" selected="Application.SaleTicket">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.设计模式.代理.动态代理.Client" />
       <module name="java疯狂讲义代码" />
@@ -437,24 +360,35 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.设计模式.代理.静态代理.Client" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.测试.Demo3" />
       <module name="java疯狂讲义代码" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.carryshuai.one.设计模式.代理.静态代理.*" />
+          <option name="PATTERN" value="cn.carryshuai.one.测试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.MainTest" />
-      <module name="springannotation" />
+    <configuration name="SaleTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.多线程.concurrent包.卖票.SaleTicket" />
+      <module name="java疯狂讲义代码" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.carryshuai.bean.*" />
+          <option name="PATTERN" value="cn.carryshuai.one.多线程.concurrent包.卖票.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.测试.Test" />
+      <module name="java疯狂讲义代码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.one.测试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -469,29 +403,6 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="test.testBeanLife" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springannotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.carryshuai.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.carryshuai" />
-      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.test" />
-      <option name="METHOD_NAME" value="testBeanLife" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -524,19 +435,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MainTest" />
-      <item itemvalue="JUnit.test.testBeanLife" />
-      <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Demo3" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.SaleTicket" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SaleTicket" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Demo3" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="JUnit.test.testBeanLife" />
-        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -607,6 +518,10 @@
       <workItem from="1537839341310" duration="71000" />
       <workItem from="1537872720033" duration="292000" />
       <workItem from="1537925392536" duration="1153000" />
+      <workItem from="1538102497894" duration="2292000" />
+      <workItem from="1538988911638" duration="867000" />
+      <workItem from="1539104532405" duration="499000" />
+      <workItem from="1539659933179" duration="2397000" />
     </task>
     <servers />
   </component>
@@ -643,11 +558,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130267000" />
+    <option name="totallyTimeSpent" value="136322000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="23" width="1376" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="31" y="0" width="1376" height="786" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -655,36 +569,36 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.1161919" side_tool="true" visible="true" weight="0.22337279" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.12653375" side_tool="true" visible="true" weight="0.23296355" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8838081" weight="0.22337279" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.87346625" visible="true" weight="0.23296355" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.87052935" weight="0.19508867" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27886057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32515338" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49850076" weight="0.32840237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.4" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49850076" weight="0.32840237" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8590844" visible="true" weight="0.374829" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0071530757" />
@@ -692,17 +606,17 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8590844" visible="true" weight="0.374829" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8719599" weight="0.29090908" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.14091559" side_tool="true" weight="0.051748253" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.4" />
       <window_info id="Capture Tool" order="6" />
@@ -731,6 +645,62 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/StagePrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/OldCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/NewCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/ProxyStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/RealStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/Star.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/controller/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -738,13 +708,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.jar!/org/springframework/context/annotation/Configuration.class" />
     <entry file="file://$PROJECT_DIR$/springannotation/src/main/java/cn/carryshuai/config/PersonConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -787,21 +751,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/aop/MathCalculator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/springannotation/src/test/java/cn/carryshuai/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Blue.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Boss.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Car.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -832,37 +787,10 @@
         <state relative-caret-position="-40" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/RainBow.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Red.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/bean/Yellow.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfAOP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3396" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfPropertyValues.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/controller/BookController.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/tx/TxConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/tx/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/tx/UserService.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -870,9 +798,6 @@
           <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springannotation/spring-annotation/src/main/java/com/atguigu/condition/WindowsCondition.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -965,77 +890,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/Star.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="175">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/RealStar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="175">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/ProxyStar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="350">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/代理/动态代理/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="450">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/NewCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="275">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/StagePrice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="175">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/OldCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="250">
           <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Content.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="400">
           <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/设计模式/策略模式/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/测试/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/测试/Demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/卖票/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/多线程/concurrent包/卖票/SaleTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
