@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/Demo/pom.xml" />
         <option value="$PROJECT_DIR$/springannotation/pom.xml" />
+        <option value="$PROJECT_DIR$/zkdemo/pom.xml" />
       </list>
     </option>
   </component>

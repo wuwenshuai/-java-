@@ -9,12 +9,14 @@
         <module name="Demo" />
         <module name="spring-annotation" />
         <module name="springannotation" />
+        <module name="zkdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Demo" target="1.7" />
       <module name="spring-annotation" target="1.5" />
       <module name="springannotation" target="1.5" />
+      <module name="zkdemo" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>
