@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Demo" />
-        <module name="spring-annotation" />
         <module name="springannotation" />
+        <module name="SwaggerDemo" />
         <module name="zkdemo" />
       </profile>
     </annotationProcessing>
@@ -16,6 +16,7 @@
       <module name="Demo" target="1.7" />
       <module name="spring-annotation" target="1.5" />
       <module name="springannotation" target="1.5" />
+      <module name="SwaggerDemo" target="1.8" />
       <module name="zkdemo" target="7" />
     </bytecodeTargetLevel>
   </component>
