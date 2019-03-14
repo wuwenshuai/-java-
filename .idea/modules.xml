@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwaggerDemo/SwaggerDemo.iml" filepath="$PROJECT_DIR$/SwaggerDemo/SwaggerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java疯狂讲义代码.iml" filepath="$PROJECT_DIR$/java疯狂讲义代码.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springannotation/spring-annotation.iml" filepath="$PROJECT_DIR$/springannotation/spring-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/springannotation/springannotation.iml" filepath="$PROJECT_DIR$/springannotation/springannotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/zkdemo/zkdemo.iml" filepath="$PROJECT_DIR$/zkdemo/zkdemo.iml" />
     </modules>
