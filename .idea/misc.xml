@@ -6,6 +6,9 @@
         <option value="$PROJECT_DIR$/Demo/pom.xml" />
         <option value="$PROJECT_DIR$/zkdemo/pom.xml" />
         <option value="$PROJECT_DIR$/SwaggerDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/爬虫入门/pom.xml" />
+        <option value="$PROJECT_DIR$/京东商品爬虫/pom.xml" />
       </list>
     </option>
   </component>

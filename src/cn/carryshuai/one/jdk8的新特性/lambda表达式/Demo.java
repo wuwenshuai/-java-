@@ -1,4 +1,4 @@
-package cn.carryshuai.one.lambda表达式;
+package cn.carryshuai.one.jdk8的新特性.lambda表达式;
 
 import org.junit.Test;
 

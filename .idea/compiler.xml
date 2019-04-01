@@ -8,16 +8,22 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Demo" />
         <module name="springannotation" />
+        <module name="springDemo" />
         <module name="SwaggerDemo" />
         <module name="zkdemo" />
+        <module name="京东商品爬虫" />
+        <module name="爬虫入门" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Demo" target="1.7" />
       <module name="spring-annotation" target="1.5" />
       <module name="springannotation" target="1.5" />
+      <module name="springDemo" target="1.8" />
       <module name="SwaggerDemo" target="1.8" />
       <module name="zkdemo" target="7" />
+      <module name="京东商品爬虫" target="1.8" />
+      <module name="爬虫入门" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

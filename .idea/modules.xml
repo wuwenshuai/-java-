@@ -5,8 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwaggerDemo/SwaggerDemo.iml" filepath="$PROJECT_DIR$/SwaggerDemo/SwaggerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java疯狂讲义代码.iml" filepath="$PROJECT_DIR$/java疯狂讲义代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDemo/springDemo.iml" filepath="$PROJECT_DIR$/springDemo/springDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springannotation/springannotation.iml" filepath="$PROJECT_DIR$/springannotation/springannotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/zkdemo/zkdemo.iml" filepath="$PROJECT_DIR$/zkdemo/zkdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/京东商品爬虫/京东商品爬虫.iml" filepath="$PROJECT_DIR$/京东商品爬虫/京东商品爬虫.iml" />
+      <module fileurl="file://$PROJECT_DIR$/爬虫入门/爬虫入门.iml" filepath="$PROJECT_DIR$/爬虫入门/爬虫入门.iml" />
     </modules>
   </component>
 </project>
