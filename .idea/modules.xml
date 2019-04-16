@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwaggerDemo/SwaggerDemo.iml" filepath="$PROJECT_DIR$/SwaggerDemo/SwaggerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java并发编程与高并发解决方案/java并发编程与高并发解决方案.iml" filepath="$PROJECT_DIR$/java并发编程与高并发解决方案/java并发编程与高并发解决方案.iml" />
       <module fileurl="file://$PROJECT_DIR$/java疯狂讲义代码.iml" filepath="$PROJECT_DIR$/java疯狂讲义代码.iml" />
       <module fileurl="file://$PROJECT_DIR$/springDemo/springDemo.iml" filepath="$PROJECT_DIR$/springDemo/springDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springannotation/springannotation.iml" filepath="$PROJECT_DIR$/springannotation/springannotation.iml" />

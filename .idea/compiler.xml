@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Demo" />
+        <module name="java并发编程与高并发解决方案" />
         <module name="springannotation" />
         <module name="springDemo" />
         <module name="SwaggerDemo" />
@@ -17,6 +18,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Demo" target="1.7" />
+      <module name="java并发编程与高并发解决方案" target="1.8" />
       <module name="spring-annotation" target="1.5" />
       <module name="springannotation" target="1.5" />
       <module name="springDemo" target="1.8" />
