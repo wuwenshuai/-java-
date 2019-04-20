@@ -2,85 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74ba56d-d81b-4935-9e12-23a55ff2e343" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/ConcurrencyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/annoations/NotRecommend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/annoations/NotThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/annoations/Recommend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/annoations/ThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/example/AtomicExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/example/CountExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/EnumSingleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/HungrySingleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/LazySingleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/SingleClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/StaticInnerSingleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/TwoLockSingleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter1/TemplateMethod(1).java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter1/TryConcurrency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter10/BooleanLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter10/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter10/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter10/SynchronizedProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter11/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter11/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter11/ThreadException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter12/ThreadGroupAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter12/ThreadGroupCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter13/SimpleThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/BankVersion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/CalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/SimpleCalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/TaxCalaculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/TaxCalculatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/TicketWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/TicketWindowRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter3/CreateThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter3/CreateThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter3/CreateThread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter3/CreateThread4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter3/CreateThread5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter4/DaemonThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter4/DaemonThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter4/ThreadSimpleAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter4/ThreadSimpleAPI2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter5/ThreadJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter5/ThreadJoin2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter5/ThreadJoin3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter6/ThreadCloseForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter6/ThreadCloseGraceful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter6/ThreadCloseGraceful2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter6/ThreadInterrupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter6/ThreadService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/BankVersion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/BankVersion3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SychronizedStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SychronizedStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SynchronizedRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SynchronizedThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/TicketWindowRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter8/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter8/DeadLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter8/OtherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/CaptureService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/DifferenceOfWaitAndSleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/ProduceConsumerVersion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/ProduceConsumerVersion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/ProduceConsumerVersion3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/CatchThreadException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/ProdectAndConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/ProductAndConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/SaleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/SaleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/JUC/Atomitic案例/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ActionContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromDBAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromHttpAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ThreadLocalDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ActionContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/QueryFromDBAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/QueryFromHttpAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ProducerAndConsumerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ProducerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/AsynFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/FutureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/FutureTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/SyncInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProducerAndConsumerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProductThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/ObserverClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observerable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/WechatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/ObserverClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/callable实现线程/CallableThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/卖票/SaleThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/生产者消费者/NotifyAllAndAwaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/读写锁/RedWriteLockDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -115,98 +79,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SingleClassDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/SingleClassDemo.java">
+      <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/JUC/Atomitic案例/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnumSingleClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/EnumSingleClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="275">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaticInnerSingleClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/StaticInnerSingleClass.java">
+      <file leaf-file-name="SaleThreadDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/卖票/SaleThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            <state relative-caret-position="375">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoLockSingleClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/TwoLockSingleClass.java">
+      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="368">
+              <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#2044#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LazySingleClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/LazySingleClass.java">
+      <file leaf-file-name="NotifyAllAndAwaitDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/生产者消费者/NotifyAllAndAwaitDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="292">
+              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#increment#0;class#ShareData#0" />
+                <element signature="method#decrement#0;class#ShareData#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HungrySingleClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/HungrySingleClass.java">
+      <file leaf-file-name="RedWriteLockDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/读写锁/RedWriteLockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="-358">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VolatileClassDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo.java">
+      <file leaf-file-name="CallableThreadDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/callable实现线程/CallableThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="300">
+              <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VolatileClassDemo2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo2.java">
+      <file leaf-file-name="Callable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Callable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="353">
+              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
+      <file leaf-file-name="Lock.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/locks/Lock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44125">
-              <caret line="1844" column="21" selection-start-line="1844" selection-start-column="21" selection-end-line="1844" selection-end-column="21" />
+            <state relative-caret-position="3325">
+              <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProduceConsumerVersion2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/ProduceConsumerVersion2.java">
+      <file leaf-file-name="AtomicBoolean.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="2800">
+              <caret line="151" column="49" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicInteger.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+              <folding>
+                <element signature="e#1762#1763#0" expanded="true" />
+                <element signature="e#1798#1799#0" expanded="true" />
+                <element signature="e#4946#4947#0" expanded="true" />
+                <element signature="e#5015#5016#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -259,40 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/jdk8的新特性/方法引用/MethodRefObject.java" />
-        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/jdk8的新特性/方法引用/Demo04MethodRef.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/aop/LogAspects.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/config/MainConfigOfAOP.java" />
-        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/test/IOCTest_AOP.java" />
-        <option value="$PROJECT_DIR$/springDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/springDemo/src/main/java/com/carry/DemoApplication.java" />
-        <option value="$PROJECT_DIR$/springDemo/src/main/java/com/carry/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/爬虫入门/src/main/java/com/carry/HttpGetParam.java" />
-        <option value="$PROJECT_DIR$/爬虫入门/pom.xml" />
-        <option value="$PROJECT_DIR$/爬虫入门/src/main/java/com/carry/TestJsoup.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/pom.xml" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/ItemApplication.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/service/ItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/爬虫入门/src/main/java/com/carry/Demo1.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/test/Test.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/util/HttpUtils.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/test/TestDemo.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/pojo/Item.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/ItemTask/ItemTask.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/dao/BaiduNewsDao.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/test/BaiduNewsDemo.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/pojo/BaiduNews.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/dao/ItemDao.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/service/BaiDuNewsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/service/BaiDuNewsService.java" />
-        <option value="$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/ItemTask/BaiDuNewsTask.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/pom.xml" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/annoations/Recommend.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/ConcurrencyApplication.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/example/CountExample1.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/example/AtomicExample.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter1/TryConcurrency.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter1/TemplateMethod(1).java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/SaleDemo.java" />
@@ -310,6 +254,40 @@
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/HungrySingleClass.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo2.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observer.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observerable.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/WechatServer.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/User.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/ObserverClient.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Observerable.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Observer.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/BinaryObserver.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/OctalObserver.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/ObserverClient.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Subject.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/Future.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter10/ThreadLocalSimpleTest.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ThreadLocalComplexTest.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ThreadLocalDemo1.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/Context.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/Context.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/Demo2.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ActionContext.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ExecutionTask.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromDBAction.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromHttpAction.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ActionContext.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/Message.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/Message.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProductThread.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ConsumerThread.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProducerAndConsumerClient.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/MessageQueue.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/JUC/Atomitic案例/Demo1.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/生产者消费者/NotifyAllAndAwaitDemo.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/读写锁/RedWriteLockDemo.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/callable实现线程/CallableThreadDemo.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/卖票/SaleThreadDemo.java" />
       </list>
     </option>
   </component>
@@ -353,11 +331,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="159" />
-    <option name="y" value="24" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="306" />
+    <option name="y" value="69" />
     <option name="width" value="1138" />
-    <option name="height" value="844" />
+    <option name="height" value="791" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -367,7 +345,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -429,7 +406,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="carry" type="462c0819:PsiDirectoryNode" />
-              <item name="并发常见的设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="线程基础" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
@@ -440,8 +417,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="carry" type="462c0819:PsiDirectoryNode" />
-              <item name="并发常见的设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="volatile关键字" type="462c0819:PsiDirectoryNode" />
+              <item name="线程基础" type="462c0819:PsiDirectoryNode" />
+              <item name="callable实现线程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
@@ -449,18 +426,36 @@
               <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="carry" type="462c0819:PsiDirectoryNode" />
+              <item name="线程基础" type="462c0819:PsiDirectoryNode" />
+              <item name="卖票" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-java-" type="462c0819:PsiDirectoryNode" />
+              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="carry" type="462c0819:PsiDirectoryNode" />
+              <item name="线程基础" type="462c0819:PsiDirectoryNode" />
+              <item name="卖票" type="462c0819:PsiDirectoryNode" />
+              <item name="SaleThreadDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/old/IdeaProjects/-java-/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/SingleClassDemo.java&#10;ServletWebServerFactoryAutoConfiguration&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="runnable&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java&#10;ServletWebServerFactoryAutoConfiguration&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -473,19 +468,21 @@
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/cn/carryshuai/sixteen" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\并发常见的设计模式" />
+      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\并发常见的设计模式\ThreadLocal理解" />
+      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\并发常见的设计模式\观察者模式\观察者案例2" />
+      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\源码" />
+      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.carry.并发常见的设计模式.生产者消费者模式" />
+      <recent name="com.carry.并发常见的设计模式.ThreadLocal理解" />
       <recent name="com.carry.example" />
       <recent name="com.carry" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\源码" />
-      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry" />
-      <recent name="C:\Users\old\IdeaProjects\-java-\京东商品爬虫\src\main\java\com\carry\pojo" />
-      <recent name="C:\Users\old\IdeaProjects\-java-\Demo\src\main\java\cn\carryshuai\spring源码分析\test" />
-      <recent name="C:\Users\old\IdeaProjects\-java-\Demo\src\main\java\cn\carryshuai\spring源码分析\config" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cn/carryshuai/sixteen" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -500,58 +497,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VolatileClassDemo2">
-    <configuration name="CatchThreadException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.CatchThreadException" />
+  <component name="RunManager" selected="Application.CallableThreadDemo">
+    <configuration name="CallableThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.callable实现线程.CallableThreadDemo" />
       <module name="java并发编程与高并发解决方案" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.线程基础.*" />
+          <option name="PATTERN" value="com.carry.线程基础.callable实现线程.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ProdectAndConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.ProdectAndConsumerDemo" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carry.JUC.Atomitic案例.Demo1" />
       <module name="java并发编程与高并发解决方案" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.线程基础.*" />
+          <option name="PATTERN" value="com.carry.JUC.Atomitic案例.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SingleClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.并发常见的设计模式.单例模式.SingleClassDemo" />
+    <configuration name="NotifyAllAndAwaitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.生产者消费者.NotifyAllAndAwaitDemo" />
       <module name="java并发编程与高并发解决方案" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.并发常见的设计模式.单例模式.*" />
+          <option name="PATTERN" value="com.carry.线程基础.生产者消费者.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="VolatileClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.并发常见的设计模式.volatile关键字.VolatileClassDemo" />
+    <configuration name="RedWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.读写锁.RedWriteLockDemo" />
       <module name="java并发编程与高并发解决方案" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.并发常见的设计模式.volatile关键字.*" />
+          <option name="PATTERN" value="com.carry.线程基础.读写锁.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="VolatileClassDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.并发常见的设计模式.volatile关键字.VolatileClassDemo2" />
+    <configuration name="SaleThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.卖票.SaleThreadDemo" />
       <module name="java并发编程与高并发解决方案" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.并发常见的设计模式.volatile关键字.*" />
+          <option name="PATTERN" value="com.carry.线程基础.卖票.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -603,19 +600,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ConcurrencyApplication" />
-      <item itemvalue="Application.ProdectAndConsumerDemo" />
-      <item itemvalue="Application.CatchThreadException" />
-      <item itemvalue="Application.SingleClassDemo" />
-      <item itemvalue="Application.VolatileClassDemo" />
-      <item itemvalue="Application.VolatileClassDemo2" />
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.SaleThreadDemo" />
+      <item itemvalue="Application.NotifyAllAndAwaitDemo" />
+      <item itemvalue="Application.RedWriteLockDemo" />
+      <item itemvalue="Application.CallableThreadDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VolatileClassDemo2" />
-        <item itemvalue="Application.VolatileClassDemo" />
-        <item itemvalue="Application.SingleClassDemo" />
-        <item itemvalue="Application.CatchThreadException" />
-        <item itemvalue="Application.ProdectAndConsumerDemo" />
+        <item itemvalue="Application.CallableThreadDemo" />
+        <item itemvalue="Application.RedWriteLockDemo" />
+        <item itemvalue="Application.NotifyAllAndAwaitDemo" />
+        <item itemvalue="Application.SaleThreadDemo" />
+        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -724,7 +721,12 @@
       <workItem from="1555072327720" duration="668000" />
       <workItem from="1555295730997" duration="10211000" />
       <workItem from="1555379084005" duration="8093000" />
-      <workItem from="1555416893618" duration="3681000" />
+      <workItem from="1555416893618" duration="3872000" />
+      <workItem from="1555468133718" duration="10499000" />
+      <workItem from="1555501660697" duration="5231000" />
+      <workItem from="1555550747651" duration="9709000" />
+      <workItem from="1555639284828" duration="7146000" />
+      <workItem from="1555737317466" duration="4021000" />
     </task>
     <servers />
   </component>
@@ -761,20 +763,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255259000" />
+    <option name="totallyTimeSpent" value="292056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="24" width="1138" height="844" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.16618498" side_tool="true" weight="0.14701803" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.056285176" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.0433526" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Structure" order="1" sideWeight="0.45989305" side_tool="true" weight="0.19291908" />
+      <window_info id="Structure" order="1" sideWeight="0.26909092" side_tool="true" visible="true" weight="0.3446532" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8193642" weight="0.2884882" />
@@ -785,10 +787,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.83381504" visible="true" weight="0.10304789" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83381504" visible="true" weight="0.23717059" />
       <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8793353" weight="0.09292649" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5173675" visible="true" weight="0.478424" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8793353" weight="0.09538461" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7309091" visible="true" weight="0.3446532" />
       <window_info anchor="bottom" id="Problems" order="14" />
       <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info id="Web" order="7" sideWeight="0.48263255" side_tool="true" weight="0.052009456" />
@@ -866,7 +868,7 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -887,372 +889,364 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/util/HttpUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="76" column="37" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/test/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/ItemTask/ItemTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="27" column="55" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/test/BaiduNewsDemo.java" />
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/pojo/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/dao/BaiduNewsDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/pojo/BaiduNews.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/service/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="25" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.6.RELEASE/spring-data-jpa-2.0.6.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="291" column="27" selection-start-line="291" selection-start-column="27" selection-end-line="291" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.6.RELEASE/spring-data-commons-2.0.6.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/dao/ItemDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/ItemApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/service/BaiDuNewsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/service/BaiDuNewsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/ItemTask/BaiDuNewsTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东商品爬虫/src/main/java/com/carry/service/ItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/ConcurrencyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/example/CountExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="185" column="55" selection-start-line="185" selection-start-column="55" selection-end-line="185" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/example/AtomicExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SychronizedStatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" selection-start-line="7" selection-start-column="13" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter2/BankVersion2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter1/TemplateMethod(1).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter1/TryConcurrency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SychronizedStaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/BankVersion2.java">
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/WechatServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="47" />
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SynchronizedTest.java">
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Observerable.java" />
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observerable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="350">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/TicketWindowRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="28" column="82" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/SaleDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/SaleThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter7/SynchronizedRunnable.java">
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/ProdectAndConsumerDemo.java">
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/BinaryObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/OctalObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/ObserverClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/SyncInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-277">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter10/ThreadLocalComplexTest.java" />
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter10/ThreadLocalSimulatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/FutureService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ThreadLocalComplexTest.java" />
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ContextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="7" column="16" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/QueryFromDBAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ExecutionTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromDBAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ExecutionTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/ProduceConsumerVersion2.java">
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromHttpAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ThreadLocalDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        <state relative-caret-position="1125">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ActionContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ActionContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ProducerAndConsumerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="302" column="16" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ProducerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="29" column="107" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ConsumerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="30" column="13" selection-start-line="24" selection-start-column="11" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProducerAndConsumerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProductThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="62" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/MessageQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="34" column="9" selection-start-line="27" selection-start-column="7" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ConsumerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/MessageQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="36" column="26" selection-start-line="34" selection-start-column="9" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="305" column="46" selection-start-line="305" selection-start-column="46" selection-end-line="305" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+          <folding>
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#4946#4947#0" expanded="true" />
+            <element signature="e#5015#5016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44125">
-          <caret line="1844" column="21" selection-start-line="1844" selection-start-column="21" selection-end-line="1844" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/CatchThreadException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/ProduceConsumerVersion1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter9/ProduceConsumerVersion3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/ProductAndConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/LazySingleClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/TwoLockSingleClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/StaticInnerSingleClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/EnumSingleClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="286">
+          <caret line="1882" column="26" lean-forward="true" selection-start-line="1882" selection-start-column="26" selection-end-line="1882" selection-end-column="26" />
           <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#17619#17620#0" expanded="true" />
+            <element signature="e#17660#17661#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/SingleClassDemo.java">
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/JUC/Atomitic案例/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="275">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/HungrySingleClass.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="2800">
+          <caret line="151" column="49" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo.java">
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter10/Lock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="225">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo2.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/locks/Lock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="3325">
+          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/生产者消费者/NotifyAllAndAwaitDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#increment#0;class#ShareData#0" />
+            <element signature="method#decrement#0;class#ShareData#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/读写锁/RedWriteLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-358">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/callable实现线程/CallableThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#2044#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/卖票/SaleThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1313,7 +1307,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
