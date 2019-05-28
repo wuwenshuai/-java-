@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="day01_eebxg_01springmvc" />
         <module name="Demo" />
         <module name="java并发编程与高并发解决方案" />
+        <module name="nginx-01" />
         <module name="springannotation" />
         <module name="springDemo" />
         <module name="SwaggerDemo" />
@@ -17,11 +19,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="day01_eebxg_01springmvc" target="1.5" />
       <module name="Demo" target="1.7" />
       <module name="java并发编程与高并发解决方案" target="1.8" />
+      <module name="nginx-01" target="1.5" />
       <module name="spring-annotation" target="1.5" />
       <module name="springannotation" target="1.5" />
       <module name="springDemo" target="1.8" />
+      <module name="SpringMVC源码分析" target="1.5" />
       <module name="SwaggerDemo" target="1.8" />
       <module name="zkdemo" target="7" />
       <module name="京东商品爬虫" target="1.8" />

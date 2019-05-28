@@ -15,7 +15,7 @@ public class UserController {
     @GetMapping("/user")
     @ApiOperation("获取用户")
     public String getUser(){
-        return "1111";
+        return "nginx-02";
     }
 
     @GetMapping("/getUserById/{id}")

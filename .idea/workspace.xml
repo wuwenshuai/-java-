@@ -2,50 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74ba56d-d81b-4935-9e12-23a55ff2e343" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/JUC/Atomitic案例/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ActionContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ExecutionTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromDBAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromHttpAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ThreadLocalDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ActionContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ContextTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ExecutionTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/QueryFromDBAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/QueryFromHttpAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ConsumerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/MessageQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ProducerAndConsumerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ProducerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/AsynFuture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/Future.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/FutureService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/FutureTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/SyncInvoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ConsumerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/MessageQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProducerAndConsumerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProductThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/ObserverClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observerable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/WechatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/BinaryObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/ObserverClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/OctalObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/callable实现线程/CallableThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/卖票/SaleThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/生产者消费者/NotifyAllAndAwaitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/读写锁/RedWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/config/CarryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/CAS原理分析/CASDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/自旋锁/SpinLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/工具类/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/carryshuai/one/工具类/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/json/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/json/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/aop/LogAspects.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/aop/LogAspects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/test/IOCTest_AOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/test/IOCTest_AOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/target/classes/cn/carryshuai/json/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/target/classes/cn/carryshuai/json/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwaggerDemo/src/main/java/com/carry/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwaggerDemo/src/main/java/com/carry/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwaggerDemo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SwaggerDemo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/carry/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/carry/controller/UserController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Demo/target/" />
@@ -56,6 +30,9 @@
     <ignored path="$PROJECT_DIR$/爬虫入门/target/" />
     <ignored path="$PROJECT_DIR$/京东商品爬虫/target/" />
     <ignored path="$PROJECT_DIR$/java并发编程与高并发解决方案/target/" />
+    <ignored path="$PROJECT_DIR$/nginx-01/target/" />
+    <ignored path="$PROJECT_DIR$/SpringMVC源码分析/target/" />
+    <ignored path="$PROJECT_DIR$/day01_eebxg_01springmvc/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,23 +56,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/JUC/Atomitic案例/Demo1.java">
+      <file leaf-file-name="IOCTest_AOP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/test/IOCTest_AOP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SaleThreadDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/卖票/SaleThreadDemo.java">
+      <file leaf-file-name="AnnotationConfigApplicationContext.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractApplicationContext.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="347" column="68" selection-start-line="347" selection-start-column="42" selection-end-line="347" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/resources/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="DateUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/工具类/DateUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/工具类/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,87 +109,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
+      <file leaf-file-name="GenericApplicationContext.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/support/GenericApplicationContext.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#2044#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1575">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotifyAllAndAwaitDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/生产者消费者/NotifyAllAndAwaitDemo.java">
+      <file leaf-file-name="CarryConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/config/CarryConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+            <state relative-caret-position="150">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#increment#0;class#ShareData#0" />
-                <element signature="method#decrement#0;class#ShareData#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedWriteLockDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/读写锁/RedWriteLockDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-358">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CallableThreadDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/callable实现线程/CallableThreadDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Callable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Callable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lock.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/locks/Lock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3325">
-              <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AtomicBoolean.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2800">
-              <caret line="151" column="49" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AtomicInteger.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-              <folding>
-                <element signature="e#1762#1763#0" expanded="true" />
-                <element signature="e#1798#1799#0" expanded="true" />
-                <element signature="e#4946#4947#0" expanded="true" />
-                <element signature="e#5015#5016#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -224,10 +165,14 @@
       <find>[]</find>
       <find>server.p</find>
       <find>ServletWebServerFactoryAutoConfiguration</find>
+      <find>internalAutoProxyCreator</find>
+      <find>handleInternal</find>
+      <find>handle(</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/Demo/src/main/java</dir>
       <dir>C:\Users\old\IdeaProjects\-java-\src\cn\carryshuai\one\多线程\concurrent包</dir>
+      <dir>C:\Users\old\IdeaProjects\-java-</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -237,22 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter1/TryConcurrency.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter1/TemplateMethod(1).java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/SaleDemo.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/SaleThread.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/ProductAndConsumerThread.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/ProdectAndConsumerDemo.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/ProductAndConsumer.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/CatchThreadException.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/SingleClass.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/LazySingleClass.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/TwoLockSingleClass.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/StaticInnerSingleClass.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/EnumSingleClass.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/SingleClassDemo.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/单例模式/HungrySingleClass.java" />
-        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/volatile关键字/VolatileClassDemo2.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observer.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observerable.java" />
@@ -288,6 +217,22 @@
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/读写锁/RedWriteLockDemo.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/callable实现线程/CallableThreadDemo.java" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/卖票/SaleThreadDemo.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/CatchThreadException.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/CAS原理分析/CASDemo.java" />
+        <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/自旋锁/SpinLockDemo.java" />
+        <option value="$PROJECT_DIR$/springDemo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SwaggerDemo/src/main/java/com/carry/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/SwaggerDemo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springDemo/src/main/java/com/carry/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/json/Demo1.java" />
+        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/aop/LogAspects.java" />
+        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/com/atguigu/tx/UserDao.java" />
+        <option value="$PROJECT_DIR$/SpringMVC源码分析/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/SpringMVC源码分析/Demo01.java" />
+        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/config/CarryConfig.java" />
+        <option value="$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/test/IOCTest_AOP.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/工具类/DateUtil.java" />
+        <option value="$PROJECT_DIR$/src/cn/carryshuai/one/工具类/Demo.java" />
       </list>
     </option>
   </component>
@@ -314,28 +259,18 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SwaggerDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SwaggerDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="306" />
-    <option name="y" value="69" />
-    <option name="width" value="1138" />
-    <option name="height" value="791" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="137" />
+    <option name="y" value="45" />
+    <option name="width" value="1202" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -345,6 +280,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -355,111 +293,59 @@
             <path>
               <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
               <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
               <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
               <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
               <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
               <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
               <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="carry" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="carry" type="462c0819:PsiDirectoryNode" />
-              <item name="线程基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="carry" type="462c0819:PsiDirectoryNode" />
-              <item name="线程基础" type="462c0819:PsiDirectoryNode" />
-              <item name="callable实现线程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="carry" type="462c0819:PsiDirectoryNode" />
-              <item name="线程基础" type="462c0819:PsiDirectoryNode" />
-              <item name="卖票" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="-java-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-java-" type="462c0819:PsiDirectoryNode" />
-              <item name="java并发编程与高并发解决方案" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="carry" type="462c0819:PsiDirectoryNode" />
-              <item name="线程基础" type="462c0819:PsiDirectoryNode" />
-              <item name="卖票" type="462c0819:PsiDirectoryNode" />
-              <item name="SaleThreadDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="carryshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="工具类" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="runnable&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java&#10;ServletWebServerFactoryAutoConfiguration&#9;null&#9;null" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="beanFactoryPost&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanFactoryPostProcessor&#10;requestparammeth&#9;PSI&#9;JAVA://org.springframework.web.method.annotation.RequestParamMethodArgumentResolver&#10;handlermethodargu&#9;FILE&#9;jar://C:/Users/old/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodArgumentResolverComposite.class&#10;requestmappinghand&#9;PSI&#9;JAVA://org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter&#10;dispaser&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;AnnotationAwareAspectJAutoProxyCreator&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator&#10;beanpos&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanPostProcessor&#10;factorybea&#9;PSI&#9;JAVA://org.springframework.beans.factory.FactoryBean&#10;applicationco&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContext&#10;defaultlis&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.DefaultListableBeanFactory&#10;beandereg&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.BeanDefinitionRegistry&#10;beande&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;beanfa&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;runnable&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java&#10;ServletWebServerFactoryAutoConfiguration&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/咕泡学院架构师/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day01_eebxg_01springmvc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -469,11 +355,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\old\IdeaProjects\-java-\SpringMVC源码分析\src\main\resources" />
+      <recent name="C:\Users\old\IdeaProjects\-java-\Demo\src\main\java\cn\carryshuai\spring源码分析" />
       <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\并发常见的设计模式" />
       <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\并发常见的设计模式\ThreadLocal理解" />
       <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\并发常见的设计模式\观察者模式\观察者案例2" />
-      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry\源码" />
-      <recent name="C:\Users\old\IdeaProjects\-java-\java并发编程与高并发解决方案\src\main\java\com\carry" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.carry.并发常见的设计模式.生产者消费者模式" />
@@ -497,64 +383,89 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CallableThreadDemo">
-    <configuration name="CallableThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.callable实现线程.CallableThreadDemo" />
-      <module name="java并发编程与高并发解决方案" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.one.工具类.Demo" />
+      <module name="java疯狂讲义代码" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.线程基础.callable实现线程.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.JUC.Atomitic案例.Demo1" />
-      <module name="java并发编程与高并发解决方案" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carry.JUC.Atomitic案例.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="NotifyAllAndAwaitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.生产者消费者.NotifyAllAndAwaitDemo" />
-      <module name="java并发编程与高并发解决方案" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carry.线程基础.生产者消费者.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RedWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.读写锁.RedWriteLockDemo" />
-      <module name="java并发编程与高并发解决方案" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carry.线程基础.读写锁.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SaleThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.线程基础.卖票.SaleThreadDemo" />
-      <module name="java并发编程与高并发解决方案" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carry.线程基础.卖票.*" />
+          <option name="PATTERN" value="cn.carryshuai.one.工具类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Demo1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.carryshuai.json" />
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.json.Demo1" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="IOCTest_AOP.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.spring源码分析.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.carryshuai.spring源码分析.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.spring源码分析.test.IOCTest_AOP" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="IOCTest_AOP.testBeanCreat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.carryshuai.spring源码分析.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.carryshuai.spring源码分析.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.carryshuai.spring源码分析.test.IOCTest_AOP" />
+      <option name="METHOD_NAME" value="testBeanCreat" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -575,6 +486,16 @@
     <configuration name="ConcurrencyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="java并发编程与高并发解决方案" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.carry.ConcurrencyApplication" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.carry.DemoApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -598,21 +519,160 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.52" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="day01_eebxg_01springmvc:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_-java-" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55953" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="day01_eebxg_01springmvc:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_-java-" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55953" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="day01_eebxg_01springmvc:war" />
+        </option>
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.ConcurrencyApplication" />
-      <item itemvalue="Application.Demo1" />
-      <item itemvalue="Application.SaleThreadDemo" />
-      <item itemvalue="Application.NotifyAllAndAwaitDemo" />
-      <item itemvalue="Application.RedWriteLockDemo" />
-      <item itemvalue="Application.CallableThreadDemo" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="JUnit.Demo1.test1" />
+      <item itemvalue="JUnit.IOCTest_AOP.test01" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="JUnit.IOCTest_AOP.testBeanCreat" />
+      <item itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CallableThreadDemo" />
-        <item itemvalue="Application.RedWriteLockDemo" />
-        <item itemvalue="Application.NotifyAllAndAwaitDemo" />
-        <item itemvalue="Application.SaleThreadDemo" />
-        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.IOCTest_AOP.testBeanCreat" />
+        <item itemvalue="Spring Boot.DemoApplication" />
+        <item itemvalue="JUnit.IOCTest_AOP.test01" />
+        <item itemvalue="JUnit.Demo1.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -726,71 +786,84 @@
       <workItem from="1555501660697" duration="5231000" />
       <workItem from="1555550747651" duration="9709000" />
       <workItem from="1555639284828" duration="7146000" />
-      <workItem from="1555737317466" duration="4021000" />
+      <workItem from="1555737317466" duration="4740000" />
+      <workItem from="1555817342038" duration="7623000" />
+      <workItem from="1555899645908" duration="6101000" />
+      <workItem from="1556009518501" duration="592000" />
+      <workItem from="1556024501883" duration="2930000" />
+      <workItem from="1556161825496" duration="2183000" />
+      <workItem from="1556192300427" duration="735000" />
+      <workItem from="1558335710292" duration="8002000" />
+      <workItem from="1558421230501" duration="3706000" />
+      <workItem from="1558439416225" duration="1925000" />
+      <workItem from="1558489476468" duration="17110000" />
+      <workItem from="1558525735738" duration="4914000" />
+      <workItem from="1558851648130" duration="4659000" />
+      <workItem from="1559036423981" duration="1873000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestJsoup_test - 2019.03.30 at 21h 02m 57s.xml">
-      <configuration name="TestJsoup.test" configurationId="JUnit" />
+    <history-entry file="Demo1_test1 - 2019.04.25 at 13h 38m 15s.xml">
+      <configuration name="Demo1.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJsoup_test - 2019.03.31 at 13h 24m 42s.xml">
-      <configuration name="TestJsoup.test" configurationId="JUnit" />
+    <history-entry file="Demo1_test1 - 2019.04.25 at 13h 40m 02s.xml">
+      <configuration name="Demo1.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJsoup_testString - 2019.03.31 at 13h 31m 54s.xml">
-      <configuration name="TestJsoup.testString" configurationId="JUnit" />
+    <history-entry file="IOCTest_AOP_test01 - 2019.05.20 at 16h 27m 39s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test1 - 2019.03.31 at 18h 19m 49s.xml">
-      <configuration name="TestDemo.test1" configurationId="JUnit" />
+    <history-entry file="IOCTest_AOP_test01 - 2019.05.20 at 16h 45m 27s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test1 - 2019.03.31 at 18h 24m 59s.xml">
-      <configuration name="TestDemo.test1" configurationId="JUnit" />
+    <history-entry file="IOCTest_AOP_test01 - 2019.05.20 at 16h 48m 18s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test1 - 2019.03.31 at 18h 25m 57s.xml">
-      <configuration name="TestDemo.test1" configurationId="JUnit" />
+    <history-entry file="IOCTest_AOP_test01 - 2019.05.20 at 16h 56m 17s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test1 - 2019.03.31 at 18h 27m 22s.xml">
-      <configuration name="TestDemo.test1" configurationId="JUnit" />
+    <history-entry file="IOCTest_AOP_test01 - 2019.05.20 at 16h 58m 38s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test1 - 2019.03.31 at 18h 28m 09s.xml">
-      <configuration name="TestDemo.test1" configurationId="JUnit" />
+    <history-entry file="IOCTest_AOP_test01 - 2019.05.21 at 14h 55m 19s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test1 - 2019.03.31 at 19h 00m 41s.xml">
-      <configuration name="TestDemo.test1" configurationId="JUnit" />
+    <history-entry file="IOCTest_AOP_testBeanCreat - 2019.05.26 at 14h 28m 35s.xml">
+      <configuration name="IOCTest_AOP.testBeanCreat" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_test1 - 2019.03.31 at 20h 23m 50s.xml">
-      <configuration name="TestDemo.test1" configurationId="JUnit" />
+    <history-entry file="IOCTest_AOP_testBeanCreat - 2019.05.26 at 19h 54m 37s.xml">
+      <configuration name="IOCTest_AOP.testBeanCreat" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="292056000" />
+    <option name="totallyTimeSpent" value="355128000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.16618498" side_tool="true" weight="0.14701803" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.0433526" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32871014" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.05221239" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Structure" order="1" sideWeight="0.26909092" side_tool="true" visible="true" weight="0.3446532" />
+      <window_info id="Structure" order="1" sideWeight="0.3855756" side_tool="true" visible="true" weight="0.32875723" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8193642" weight="0.2884882" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8193642" weight="0.32200885" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.46459538" weight="0.31900138" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.46459538" weight="0.1886269" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83381504" visible="true" weight="0.23717059" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.15395284" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83381504" weight="0.3744799" />
       <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8793353" weight="0.09538461" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7309091" visible="true" weight="0.3446532" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8793353" weight="0.21359223" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6144244" visible="true" weight="0.32875723" />
       <window_info anchor="bottom" id="Problems" order="14" />
       <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info id="Web" order="7" sideWeight="0.48263255" side_tool="true" weight="0.052009456" />
@@ -798,15 +871,78 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49783236" weight="0.32732317" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49783236" weight="0.32732317" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32871014" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info id="Image Layers" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.83381504" visible="true" weight="0.097201765" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8793353" weight="0.21359223" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.16618498" side_tool="true" weight="0.14701803" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.46459538" weight="0.1886269" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="15" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.15395284" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.05221239" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6166395" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" sideWeight="0.48263255" side_tool="true" weight="0.052009456" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.38336053" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49783236" weight="0.32732317" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8193642" weight="0.31958762" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -867,10 +1003,165 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/config/BeanPostProcessor.class</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java</url>
+          <line>247</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE-sources.jar!/org/springframework/aop/aspectj/annotation/AnnotationAwareAspectJAutoProxyCreator.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/test/IOCTest_AOP.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/SpringMVC源码分析/Demo01.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springDemo/src/main/java/com/carry/controller/UserController.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>433</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>470</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>452</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>473</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>523</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>382</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>422</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>486</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>562</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/test/IOCTest_AOP.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>251</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="34" />
+      <option name="time" value="72" />
     </breakpoint-manager>
     <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="file:///E:/在职加薪阶段二  项目框架架构与优化课程/文档源码/2-3 MVC/资料/RequestBody执行流程图.png" />
+        <watch expression="matchingBeans" />
+        <watch expression="((LinkedHashMap.Entry)((LinkedHashMap)matchingBeans).entrySet().toArray()[0]).getValue()" custom="java.util.LinkedHashMap.Entry,java.util.LinkedHashMap" />
+      </configuration>
       <configuration name="Application">
         <watch expression="((HttpResponseProxy)response).connHolder" language="JAVA" custom="org.apache.http.impl.execchain.HttpResponseProxy" />
         <watch expression="((HttpResponseProxy)response).connHolder" language="JAVA" custom="org.apache.http.impl.execchain.HttpResponseProxy" />
@@ -889,361 +1180,345 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/WechatServer.java">
+    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/config/MainConfigOfAOP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="2675">
+          <caret line="197" column="15" lean-forward="true" selection-start-line="197" selection-start-column="15" selection-end-line="197" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Observerable.java" />
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例1/Observerable.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/annotation/AspectJAutoProxyRegistrar.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="235">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/BinaryObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/OctalObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/ObserverClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/观察者模式/观察者案例2/Subject.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/FutureTask.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="131">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/SyncInvoker.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.3.RELEASE/spring-aop-4.2.3.RELEASE.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="131">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/Future.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.3.RELEASE/spring-beans-4.2.3.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="-544">
+          <caret line="675" column="124" selection-start-line="675" selection-start-column="124" selection-end-line="675" selection-end-column="124" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter10/ThreadLocalComplexTest.java" />
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter10/ThreadLocalSimulatorTest.java" />
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter8/FutureService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ThreadLocalComplexTest.java" />
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ContextTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="7" column="16" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/QueryFromDBAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ExecutionTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromDBAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ExecutionTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/QueryFromHttpAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ThreadLocalDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter11/ActionContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/ThreadLocal理解/ActionContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ProducerAndConsumerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="302" column="16" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ProducerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="29" column="107" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/ConsumerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" column="13" selection-start-line="24" selection-start-column="11" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProducerAndConsumerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ProductThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="62" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/chapter13/MessageQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="34" column="9" selection-start-line="27" selection-start-column="7" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/ConsumerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/并发常见的设计模式/生产者消费者模式/MessageQueue.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
-          <caret line="36" column="26" selection-start-line="34" selection-start-column="9" selection-end-line="36" selection-end-column="26" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="305" column="46" selection-start-line="305" selection-start-column="46" selection-end-line="305" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-          <folding>
-            <element signature="e#1762#1763#0" expanded="true" />
-            <element signature="e#1798#1799#0" expanded="true" />
-            <element signature="e#4946#4947#0" expanded="true" />
-            <element signature="e#5015#5016#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="1882" column="26" lean-forward="true" selection-start-line="1882" selection-start-column="26" selection-end-line="1882" selection-end-column="26" />
-          <folding>
-            <element signature="e#17619#17620#0" expanded="true" />
-            <element signature="e#17660#17661#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="3550">
+          <caret line="181" column="35" selection-start-line="181" selection-start-column="35" selection-end-line="181" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/JUC/Atomitic案例/Demo1.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1436">
+          <caret line="200" column="26" selection-start-line="200" selection-start-column="23" selection-end-line="200" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
+    <entry file="file://$PROJECT_DIR$/SpringMVC源码分析/src/main/resources/springmvc.xml" />
+    <entry file="file://$PROJECT_DIR$/SpringMVC源码分析/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/SpringMVC源码分析/Demo01.java" />
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/java/com/itheima/controller/ControllerDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="151" column="49" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
+        <state relative-caret-position="153">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/源码/concurrency/chapter10/Lock.java">
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/java/com/itheima/controller/ParameterController3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="153">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3325">
-          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/生产者消费者/NotifyAllAndAwaitDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#increment#0;class#ShareData#0" />
-            <element signature="method#decrement#0;class#ShareData#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/读写锁/RedWriteLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-358">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/callable实现线程/CallableThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#2044#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java并发编程与高并发解决方案/src/main/java/com/carry/线程基础/卖票/SaleThreadDemo.java">
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/java/com/itheima/controller/ControllerDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/java/com/itheima/controller/ParameterController1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/java/com/itheima/controller/ControllerDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/java/com/itheima/controller/ParameterController2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/java/com/itheima/controller/ParameterController4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/carry/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/java/com/itheima/controller/ControllerDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.29/tomcat-embed-core-8.5.29.jar!/org/apache/tomcat/util/threads/TaskThread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.29/tomcat-embed-core-8.5.29.jar!/org/apache/catalina/authenticator/AuthenticatorBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.29/tomcat-embed-core-8.5.29.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/HttpServletBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="35" column="53" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/HandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6025">
+          <caret line="263" column="23" selection-start-line="263" selection-start-column="23" selection-end-line="263" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10500">
+          <caret line="470" selection-start-line="470" selection-end-line="470" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11575">
+          <caret line="562" selection-start-line="562" selection-end-line="562" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/HandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3125">
+          <caret line="151" column="27" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodArgumentResolverComposite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodArgumentResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/carry/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/config/CarryConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/cn/carryshuai/spring源码分析/test/IOCTest_AOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/support/GenericApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/config/BeanFactoryPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eebxg_01springmvc/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3931">
+          <caret line="315" column="15" selection-start-line="315" selection-start-column="5" selection-end-line="315" selection-end-column="15" />
+          <folding>
+            <element signature="e#6390#6391#0" expanded="true" />
+            <element signature="e#6438#6439#0" expanded="true" />
+            <element signature="e#7577#7578#0" expanded="true" />
+            <element signature="e#7625#7626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="347" column="68" selection-start-line="347" selection-start-column="42" selection-end-line="347" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/工具类/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/carryshuai/one/工具类/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1256,10 +1531,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>day01_eebxg_01springmvc:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1302,11 +1579,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springDemo</last-edited>
+          <last-edited>day01_eebxg_01springmvc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
