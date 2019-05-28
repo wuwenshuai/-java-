@@ -25,17 +25,18 @@ public class Demo1 {
         jsonObject.put("建设银行","1001");
         jsonObject.put("中国银行","1002");
         jsonObject.put("工商银行","1003");
-        String string = jsonObject.getString("上海银行");
-        System.out.println(string);
         String string1 = jsonObject.getString("1001");
         System.out.println(string1);
 
 
-      Map map = (Map) JSON.parse(jsonObject.toString());
-        Set<String> set = map.keySet();
+    //  Map map = (Map) JSON.parse(jsonObject.toString());
+        //Map<String,String> map = JSONObject.toJavaObject(jsonObject, Map.class);
+        Map<String,String> map = JSONObject.parseObject(jsonObject.toJSONString(),Map.class);
+        System.out.println(map);
+       /* Set<String> set = map.keySet();
         for (String name : set){
             System.out.println(name);
-        }
+        }*/
 
 
     }

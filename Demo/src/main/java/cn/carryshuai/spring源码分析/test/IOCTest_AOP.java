@@ -2,10 +2,11 @@ package cn.carryshuai.spring源码分析.test;
 
 
 import cn.carryshuai.spring源码分析.aop.MathCalculator;
+import cn.carryshuai.spring源码分析.config.CarryConfig;
 import cn.carryshuai.spring源码分析.config.MainConfigOfAOP;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 
 public class IOCTest_AOP {
@@ -23,5 +24,12 @@ public class IOCTest_AOP {
 
 		applicationContext.close();
 	}
+
+	@Test
+	public void testBeanCreat(){
+        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(CarryConfig.class);
+        CarryConfig bean = context.getBean(CarryConfig.class);
+        System.out.println(bean);
+    }
 
 }

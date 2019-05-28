@@ -8,6 +8,6 @@ public class UserController {
 
     @RequestMapping("/user")
     public String index() {
-        return "hell111111";
+        return "nginx01";
     }
 }

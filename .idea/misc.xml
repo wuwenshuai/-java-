@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/day01_eebxg_01springmvc" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -10,6 +13,8 @@
         <option value="$PROJECT_DIR$/爬虫入门/pom.xml" />
         <option value="$PROJECT_DIR$/京东商品爬虫/pom.xml" />
         <option value="$PROJECT_DIR$/java并发编程与高并发解决方案/pom.xml" />
+        <option value="$PROJECT_DIR$/nginx-01/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eebxg_01springmvc/pom.xml" />
       </list>
     </option>
   </component>
